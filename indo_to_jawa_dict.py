@@ -256,5 +256,6 @@ indo_to_jawa_dict = {
     'pemuda': 'pemuda',
     'pembangun': 'pembangun',
     'pekerja': 'pekerja',
+    'sudah' : 'wes'
     # Tambahkan kata-kata lain sesuai kebutuhan
 }

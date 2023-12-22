@@ -4,7 +4,7 @@ from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 from deep_translator import GoogleTranslator
 
 OUTPUT_PATH = Path(__file__).parent
-ASSETS_PATH = OUTPUT_PATH / Path(r"./assets/frame0/")
+ASSETS_PATH = OUTPUT_PATH / Path(r"assets/frame0/")
 
 
 def relative_to_assets(path: str) -> Path:
